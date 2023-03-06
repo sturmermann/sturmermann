@@ -21,7 +21,7 @@
 
 # Other informantion :
 ### -Currently Working On:
-- ✨ On Optical Graph Recognition & Some Graphs Problems Solutions ( as my university project )
+- ✨ On Optical Graph Recognition & Some Graphs Problems Solutions ( as my school project )
 - ✨ Creating Strategic Game Simulation Of Politic & Economic ( like games from Paradox Interactive ) on base of VK
 ### -System & Co:
 - Using ✨ Arch Linux  with DWM ✨ 
